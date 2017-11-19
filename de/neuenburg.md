@@ -6,7 +6,7 @@ den Atem. Die Teilnahme ist an keinen Beitrag
 oder anderweitige Gegenleistung gekoppelt.
 
 Bitte melde dich bei 
-henry@buddha-dharma.org
+{{email}}
 
 Mehr Informationen unter 
 https://buddha-dharma.org/de
